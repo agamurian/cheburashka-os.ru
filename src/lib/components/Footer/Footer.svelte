@@ -13,6 +13,7 @@
                 {$t(`common.copyright`, {
                     crYear: new Date().getFullYear()
                 })}
+                <a href="https://github.com/agamurian/cheburashka-os.ru">github</a>
     </footer>
 {/if}
 
