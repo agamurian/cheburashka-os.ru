@@ -18,7 +18,7 @@
           <div class="carousel-caption text-start">
             <h1>Чебурашка ОС</h1>
             <p>Свободная операционная система для современного пользователя</p>
-            <p><a class="btn btn-lg btn-primary" href="#">Sign up today</a></p>
+            <p><a class="btn btn-lg btn-primary" href="download">Скачать</a></p>
           </div>
         </div>
       </div>
@@ -29,7 +29,7 @@
           <div class="carousel-caption">
             <h1>Профессионалльный выбор</h1>
             <p>Программы для профессионалов на основе свободного ПО.</p>
-            <p><a class="btn btn-lg btn-primary" href="#">Learn more</a></p>
+            <p><a class="btn btn-lg btn-primary" href="installed">Программы</a></p>
           </div>
         </div>
       </div>
@@ -40,7 +40,7 @@
           <div class="carousel-caption text-end">
             <h1>I3 сборка<h1>
             <p>Тайловый оконный менеджер - для закаленных пользователей</p>
-            <p><a class="btn btn-lg btn-primary" href="#">Browse gallery</a></p>
+            <p><a class="btn btn-lg btn-primary" href="download/i3">Скачать сборку с i3</a></p>
           </div>
         </div>
       </div>
@@ -69,21 +69,21 @@
 
         <h2>Образ CD</h2>
         <p>установите чебурашку-ос сегодня!</p>
-        <p><a class="btn btn-secondary" href="#">View details &raquo;</a></p>
+        <p><a class="btn btn-secondary" href="download">Скачать &raquo;</a></p>
       </div><!-- /.col-lg-4 -->
       <div class="col-lg-4">
         <img src="/orange.png" class="rounded-circle bd-placeholder-img" width="140" height="140" alt="...">
 
         <h2>Много апельсинов!</h2>
         <p>Большое разнообразие предустановленых пакетов</p>
-        <p><a class="btn btn-secondary" href="#">View details &raquo;</a></p>
+        <p><a class="btn btn-secondary" href="installed">Посмотреть &raquo;</a></p>
       </div><!-- /.col-lg-4 -->
       <div class="col-lg-4">
         <img src="/croc.png" class="rounded-circle bd-placeholder-img" width="140" height="140" alt="...">
 
         <h2>Никаких крокодилов!</h2>
         <p>В операционной системе Чебуршка нет вирусов и вредоностного программного обеспечения</p>
-        <p><a class="btn btn-secondary" href="#">View details &raquo;</a></p>
+        <p><a class="btn btn-secondary" href="viruses">Никаких &raquo;</a></p>
       </div><!-- /.col-lg-4 -->
     </div><!-- /.row -->
 

@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-6944c2a5.js",
+    "file": "start-9aa99c32.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -12,15 +12,25 @@
       "src/routes/__error.svelte",
       "src/routes/index.svelte",
       "src/routes/en/index.svelte",
+      "src/routes/en/installed.md",
+      "src/routes/en/download/index.md",
+      "src/routes/en/download/cinnamon.md",
+      "src/routes/en/download/i3.md",
+      "src/routes/en/viruses.md",
       "src/routes/en/about.md",
       "src/routes/ru/index.svelte",
+      "src/routes/ru/installed.md",
+      "src/routes/ru/download/index.md",
+      "src/routes/ru/download/cinnamon.md",
+      "src/routes/ru/download/i3.md",
+      "src/routes/ru/viruses.md",
       "src/routes/ru/about.md",
       "src/routes/[lang]/[...error]/__layout.reset.svelte",
       "src/routes/[lang]/[...error]/index.svelte"
     ]
   },
   "src/routes/__layout.svelte": {
-    "file": "pages/__layout.svelte-773bf5ce.js",
+    "file": "pages/__layout.svelte-b4c950d3.js",
     "src": "src/routes/__layout.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -35,11 +45,11 @@
       "node_modules/@fortawesome/fontawesome-free/js/all.min.js"
     ],
     "css": [
-      "assets/pages/__layout.svelte-93c4bca1.css"
+      "assets/pages/__layout.svelte-2118725a.css"
     ]
   },
   "src/routes/__error.svelte": {
-    "file": "pages/__error.svelte-2cc3fd3e.js",
+    "file": "pages/__error.svelte-69fe2f2c.js",
     "src": "src/routes/__error.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -50,7 +60,7 @@
       "_preload-helper-1e779f76.js"
     ],
     "css": [
-      "assets/pages/__error.svelte-08aefdbb.css"
+      "assets/pages/__error.svelte-de83506b.css"
     ]
   },
   "src/routes/index.svelte": {
@@ -63,7 +73,7 @@
     ]
   },
   "src/routes/en/index.svelte": {
-    "file": "pages/en/index.svelte-b589f169.js",
+    "file": "pages/en/index.svelte-af7ce59b.js",
     "src": "src/routes/en/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -72,6 +82,51 @@
       "_index-84b110aa.js",
       "_marked.esm-8ca47526.js",
       "_preload-helper-1e779f76.js"
+    ]
+  },
+  "src/routes/en/installed.md": {
+    "file": "pages/en/installed.md-41462d37.js",
+    "src": "src/routes/en/installed.md",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-f32d6e1d.js"
+    ]
+  },
+  "src/routes/en/download/index.md": {
+    "file": "pages/en/download/index.md-11405983.js",
+    "src": "src/routes/en/download/index.md",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-f32d6e1d.js"
+    ]
+  },
+  "src/routes/en/download/cinnamon.md": {
+    "file": "pages/en/download/cinnamon.md-fd639afb.js",
+    "src": "src/routes/en/download/cinnamon.md",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-f32d6e1d.js"
+    ]
+  },
+  "src/routes/en/download/i3.md": {
+    "file": "pages/en/download/i3.md-a506f301.js",
+    "src": "src/routes/en/download/i3.md",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-f32d6e1d.js"
+    ]
+  },
+  "src/routes/en/viruses.md": {
+    "file": "pages/en/viruses.md-b760e016.js",
+    "src": "src/routes/en/viruses.md",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-f32d6e1d.js"
     ]
   },
   "src/routes/en/about.md": {
@@ -84,7 +139,7 @@
     ]
   },
   "src/routes/ru/index.svelte": {
-    "file": "pages/ru/index.svelte-e64a0c6a.js",
+    "file": "pages/ru/index.svelte-33a4b7e3.js",
     "src": "src/routes/ru/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -93,6 +148,51 @@
       "_index-84b110aa.js",
       "_marked.esm-8ca47526.js",
       "_preload-helper-1e779f76.js"
+    ]
+  },
+  "src/routes/ru/installed.md": {
+    "file": "pages/ru/installed.md-1fef9839.js",
+    "src": "src/routes/ru/installed.md",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-f32d6e1d.js"
+    ]
+  },
+  "src/routes/ru/download/index.md": {
+    "file": "pages/ru/download/index.md-0b745a02.js",
+    "src": "src/routes/ru/download/index.md",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-f32d6e1d.js"
+    ]
+  },
+  "src/routes/ru/download/cinnamon.md": {
+    "file": "pages/ru/download/cinnamon.md-9033d770.js",
+    "src": "src/routes/ru/download/cinnamon.md",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-f32d6e1d.js"
+    ]
+  },
+  "src/routes/ru/download/i3.md": {
+    "file": "pages/ru/download/i3.md-91d45fc1.js",
+    "src": "src/routes/ru/download/i3.md",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-f32d6e1d.js"
+    ]
+  },
+  "src/routes/ru/viruses.md": {
+    "file": "pages/ru/viruses.md-79cfd415.js",
+    "src": "src/routes/ru/viruses.md",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-f32d6e1d.js"
     ]
   },
   "src/routes/ru/about.md": {
@@ -114,7 +214,7 @@
     ]
   },
   "src/routes/[lang]/[...error]/index.svelte": {
-    "file": "pages/_lang_/_...error_/index.svelte-267633af.js",
+    "file": "pages/_lang_/_...error_/index.svelte-3206d5d6.js",
     "src": "src/routes/[lang]/[...error]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,

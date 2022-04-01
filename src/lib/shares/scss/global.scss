@@ -28,9 +28,20 @@
       background-color: #584332ee;
       border-color: #584332aa;
       color: white;
+      &:hover {
+        color: palegoldenrod;
+        background-color:#614832aa
+      }
     }
     .rounded {
       border-radius: 35px;
+    }
+
+    .card {
+      border:7px;
+      background-color: #eeeeeeee;
+      padding: 10px;
+      margin:10px;
     }
 
     .colinher {

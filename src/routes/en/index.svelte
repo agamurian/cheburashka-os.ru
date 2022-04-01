@@ -18,7 +18,7 @@
           <div class="carousel-caption text-start">
             <h1>Cheburashka OS</h1>
             <p>Free operation system for a modern user</p>
-            <p><a class="btn btn-lg btn-primary" href="#">Sign up today</a></p>
+            <p><a class="btn btn-lg btn-primary" href="download">Download</a></p>
           </div>
         </div>
       </div>
@@ -29,7 +29,7 @@
           <div class="carousel-caption">
             <h1>Professional Choise</h1>
             <p>Programs for editing on base of FOSS.</p>
-            <p><a class="btn btn-lg btn-primary" href="#">Learn more</a></p>
+            <p><a class="btn btn-lg btn-primary" href="installed">Software</a></p>
           </div>
         </div>
       </div>
@@ -40,7 +40,7 @@
           <div class="carousel-caption text-end">
             <h1>I3 build</h1>
             <p>Tiling window manager - for expirienced users</p>
-            <p><a class="btn btn-lg btn-primary" href="#">Browse gallery</a></p>
+            <p><a class="btn btn-lg btn-primary" href="download/i3">Dowload i3 build</a></p>
           </div>
         </div>
       </div>
@@ -69,21 +69,21 @@
 
         <h2>CD Image</h2>
         <p>install os from flashcard today</p>
-        <p><a class="btn btn-secondary" href="#">View details &raquo;</a></p>
+        <p><a class="btn btn-secondary" href="download">download &raquo;</a></p>
       </div><!-- /.col-lg-4 -->
       <div class="col-lg-4">
         <img src="/orange.png" class="rounded-circle bd-placeholder-img" width="140" height="140" alt="...">
 
         <h2>A lot of oranges</h2>
         <p>Lot of packages are preinstalled for out-of-the-box expirience</p>
-        <p><a class="btn btn-secondary" href="#">View details &raquo;</a></p>
+        <p><a class="btn btn-secondary" href="installed">details &raquo;</a></p>
       </div><!-- /.col-lg-4 -->
       <div class="col-lg-4">
         <img src="/croc.png" class="rounded-circle bd-placeholder-img" width="140" height="140" alt="...">
 
         <h2>No crocodiles</h2>
         <p>In Cheburashka OS you will not find any visuses or spyware</p>
-        <p><a class="btn btn-secondary" href="#">View details &raquo;</a></p>
+        <p><a class="btn btn-secondary" href="viruses">completely &raquo;</a></p>
       </div><!-- /.col-lg-4 -->
     </div><!-- /.row -->
 
@@ -107,7 +107,7 @@
 
     <div class="row featurette">
       <div class="col-md-76order-md-2">
-        <h2 class="featurette-heading">OOh yeah, who is the.. <span class="text-muted">"Cheburashka"?</span></h2>
+        <h2 class="featurette-heading">Oh yeah, who is the.. <span class="text-muted">"Cheburashka"?</span></h2>
         <p class="lead">Cheburashka is famos russian character. also known as Topple in earlier English translations, is a fictional character created by Soviet writer Eduard Uspensky in his 1965 children's book Krokodil Gena i yevo druzia. The character subsequently appeared as the protagonist in a series of stop-motion animated films by Roman Kachanov (Soyuzmultfilm studio), the first of which was made in 1969</p>
       </div>
       <div class="col-md-6 order-md-1">
