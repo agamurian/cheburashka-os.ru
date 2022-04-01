@@ -33,7 +33,7 @@ import Navbar from '../lib/components/Navbar/Navbar.svelte';
     <div class="colinher p-0"> 
     <slot/></div>
     <br>
-    <div style="height:10em"></div>
+    <div style="height:10em; z-index: -100; background: inherit;"></div>
     <Footer/>
 {/if}
 

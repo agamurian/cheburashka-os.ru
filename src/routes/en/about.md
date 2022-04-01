@@ -1,4 +1,8 @@
 <div class="container my-5">
+<img src="/scr.webp" class="img-fluid" alt="...">
+</div>
+
+<div class="container my-5 column">
 
 # About
 
