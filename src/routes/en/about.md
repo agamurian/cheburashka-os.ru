@@ -1,32 +1,14 @@
+<div class="container my-5">
+
 # About
 
-about me who am i
-about me who am i
-about me who am i
-about me who am i
-about me who am i
-about me who am i
-about me who am i
-about me who am i
-about me who am i
-about me who am i
-about me who am i
-about me who am i
-about me who am i
-about me who am i
-about me who am i
-about me who am i
-about me who am i
-about me who am i
-about me who am i
-about me who am i
-about me who am i
-about me who am i
-about me who am i
-about me who am i
-about me who am i
-about me who am i
-about me who am i
-about me who am i
-about me who am i
-about me who am i
+Community-driven, featuring Cinnamon Desktop and i3 tiling wm with Ubuntu at the core, packed fast and full of features, here is the most traditionally modern desktop you will ever love.
+
+---
+
+#### Keep everything simple
+With Cheburashka OS, you get the traditional default Cinnamon desktop along with most needed applications. The LibreOffice suite also comes pre-installed.
+
+In other words, Cheburashka gives you the most standardized and traditional software, like everything you need for basic computer usage: web browser, ofice suite, torrent manager,image manipulation programs etc..
+
+</div>

@@ -30,7 +30,7 @@ import Navbar from '../lib/components/Navbar/Navbar.svelte';
 
 {#if browser}
     <Navbar/>
-    <div class="column p-5"> 
+    <div class="colinher p-0"> 
     <slot/></div>
     <br>
     <div style="height:10em"></div>
@@ -38,20 +38,8 @@ import Navbar from '../lib/components/Navbar/Navbar.svelte';
 {/if}
 
 <style>
-    .column {
-     -webkit-column-width: 5em;
-     -moz-column-width: 5em;
-     column-width: 20em;
-     -webkit-column-count: 3;
-     -moz-column-count: 3;
-     column-count: 3;
-     -webkit-column-gap: 5em;
-     -moz-column-gap: 5em;
-     column-gap: 5em;
+    .colinher {
      background-color: inherit;
-     -webkit-column-rule: 2px dashed gray;
-     -moz-column-rule: 2px dashed gray;
-     column-rule: 2px dashed gray;
     }
 </style>
 

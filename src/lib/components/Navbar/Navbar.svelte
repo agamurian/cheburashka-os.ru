@@ -33,7 +33,7 @@
 </script>
 
 <nav bind:this="{navBar}" class="black nav sticky-top navbar-expand-lg rounded-0 sm" >
-    <div class="container-fluid d-flex flex-wrap flex-column flex-lg-row justify-content-start align-items-start inline inline-block" style="background-color:gray;!important">
+    <div class="container-fluid d-flex flex-wrap flex-column flex-lg-row justify-content-start align-items-start inline inline-block" style="background-color: #83674566">
             <div class="navbar-toggler" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                     aria-expanded="false"
@@ -44,7 +44,7 @@
                 </span> -->
         </div>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <a class="navbar-brand" href="/{$locale}/">agamura</a>
+        <a class="navbar-brand" href="/{$locale}/">cheburashka os</a>
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item">
                     <a class:active="{curUrl === `/${$locale}/`}"
@@ -58,32 +58,32 @@
                         {$t('menu.about')}
                     </a>
                 </li>
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                <li class="nav-item dropdown disabled">
+                    <a class="nav-link dropdown-toggle disabled" href="#" id="navbarDropdown" role="button"
                        data-bs-toggle="dropdown" aria-expanded="false">
-                        Dropdown
+                        Download
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="/{$locale}/action/">Action</a></li>
-                        <li><a class="dropdown-item" href="/{$locale}/action/another">Another action</a></li>
+                        <li><a class="dropdown-item" href="/{$locale}/action/">XFCE Edition</a></li>
+                        <li><a class="dropdown-item" href="/{$locale}/action/another">MATE Edition</a></li>
                         <li>
                             <hr class="dropdown-divider">
                         </li>
-                        <li><a class="dropdown-item" href="/{$locale}/sth/">Something else here</a></li>
+                        <li><a class="dropdown-item" href="/{$locale}/sth/">I3 edition</a></li>
                     </ul>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link disabled" href="/{$locale}/disabled/" tabindex="-1" aria-disabled="true">Disabled</a>
+                    <a class="nav-link disabled" href="/{$locale}/disabled/" tabindex="-1" aria-disabled="true">Блог</a>
                 </li>
                 <li class="nav-item d-lg-none">
                     <ColorSchemeSwitcher mode="string" className="colinher nav-link"/>
                 </li>
             </ul>
-            <div class="flex-wrap flex-row btn colinher nav "  style="color:inherit;">
+            <div class="flex-wrap flex-row btn nav pl-2 text-white m-2"  style="color:inherit;padding-left:0.6em;">
             <div>
                 <ColorSchemeSwitcher/>
             </div>
-            <div class="ms-2 colinher">
+            <div class="ms-2 text-white">
                 <LocaleSwitcher/>
             </div>
         </div>

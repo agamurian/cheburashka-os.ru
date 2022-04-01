@@ -7,6 +7,7 @@
       display: flex;
       flex-direction: column;
       height:100%;
+      font-family: Fira Sans;
     }
 
     a {
@@ -22,11 +23,37 @@
       cursor: pointer;
     }
 
+    .btn {
+      border-radius: 15px;
+      background-color: #584332ee;
+      border-color: #584332aa;
+      color: white;
+    }
+    .rounded {
+      border-radius: 35px;
+    }
+
     .colinher {
       color: inherit;
       background-color: --main-bg-color;
       z-index: 50;
     }
+
+    .column {
+      -webkit-column-width: 200px;
+      -moz-column-width: 200px;
+      column-width: 200px;
+      -webkit-column-count: 3;
+      -moz-column-count: 3;
+      column-count: 3;
+      -webkit-column-gap: 30px;
+      -moz-column-gap: 30px;
+      column-gap: 30px;
+      -webkit-column-rule: 1px solid #ccc;
+      -moz-column-rule: 1px solid #ccc;
+      column-rule: 1px solid #ccc;
+    }
+
     .notSel {
       user-select: none;
     }

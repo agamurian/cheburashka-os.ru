@@ -1,153 +1,145 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-e9f25e82.js",
+    "file": "start-1a573eb5.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
-      "_vendor-a55eeace.js",
-      "_preload-helper-e4860ae8.js"
+      "_index-26d1c126.js",
+      "_preload-helper-863641ac.js"
     ],
     "dynamicImports": [
-      ".svelte-kit/runtime/components/layout.svelte",
+      "src/routes/__layout.svelte",
       "src/routes/__error.svelte",
       "src/routes/index.svelte",
-      "src/routes/en/index.md",
+      "src/routes/en/index.svelte",
       "src/routes/en/about.md",
-      "src/routes/ru/__layout.svelte",
       "src/routes/ru/index.svelte",
-      "src/routes/ru/about/__layout.svelte",
-      "src/routes/ru/about/index.svelte",
+      "src/routes/ru/about.md",
       "src/routes/[lang]/[...error]/__layout.reset.svelte",
       "src/routes/[lang]/[...error]/index.svelte"
     ]
   },
-  ".svelte-kit/runtime/components/layout.svelte": {
-    "file": "layout.svelte-6617e24d.js",
-    "src": ".svelte-kit/runtime/components/layout.svelte",
+  "src/routes/__layout.svelte": {
+    "file": "pages/__layout.svelte-5d94d20c.js",
+    "src": "src/routes/__layout.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-a55eeace.js"
+      "_preload-helper-863641ac.js",
+      "_index-26d1c126.js",
+      "_index-8fcc8c3c.js",
+      "_stores-21e48d12.js"
+    ],
+    "dynamicImports": [
+      "_bootstrap.bundle.min-3e95f5b0.js",
+      "node_modules/@fortawesome/fontawesome-free/js/all.min.js"
+    ],
+    "css": [
+      "assets/pages/__layout.svelte-3e0a476f.css"
     ]
   },
   "src/routes/__error.svelte": {
-    "file": "pages/__error.svelte-d2e3e977.js",
+    "file": "pages/__error.svelte-73d056f6.js",
     "src": "src/routes/__error.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-a55eeace.js",
-      "_index-4c361598.js",
-      "_preload-helper-e4860ae8.js"
+      "_index-26d1c126.js",
+      "_index-8fcc8c3c.js",
+      "_stores-21e48d12.js",
+      "_preload-helper-863641ac.js"
     ],
     "css": [
-      "assets/pages/__error.svelte-092ef7b2.css"
+      "assets/pages/__error.svelte-08aefdbb.css"
     ]
   },
   "src/routes/index.svelte": {
-    "file": "pages/index.svelte-d838c27a.js",
+    "file": "pages/index.svelte-6942889b.js",
     "src": "src/routes/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-a55eeace.js"
+      "_index-26d1c126.js"
     ]
   },
-  "src/routes/en/index.md": {
-    "file": "pages/en/index.md-27a10f44.js",
-    "src": "src/routes/en/index.md",
+  "src/routes/en/index.svelte": {
+    "file": "pages/en/index.svelte-82d88868.js",
+    "src": "src/routes/en/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-a55eeace.js"
+      "_index-26d1c126.js",
+      "_index-8fcc8c3c.js",
+      "_marked.esm-8ca47526.js",
+      "_preload-helper-863641ac.js"
     ]
   },
   "src/routes/en/about.md": {
-    "file": "pages/en/about.md-4d987d03.js",
+    "file": "pages/en/about.md-8e1cdc74.js",
     "src": "src/routes/en/about.md",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-a55eeace.js"
-    ]
-  },
-  "src/routes/ru/__layout.svelte": {
-    "file": "pages/ru/__layout.svelte-a224d27b.js",
-    "src": "src/routes/ru/__layout.svelte",
-    "isEntry": true,
-    "isDynamicEntry": true,
-    "imports": [
-      "_vendor-a55eeace.js"
+      "_index-26d1c126.js"
     ]
   },
   "src/routes/ru/index.svelte": {
-    "file": "pages/ru/index.svelte-423b00d9.js",
+    "file": "pages/ru/index.svelte-8e65c84f.js",
     "src": "src/routes/ru/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-a55eeace.js",
-      "_index-4c361598.js",
-      "_preload-helper-e4860ae8.js"
+      "_index-26d1c126.js",
+      "_index-8fcc8c3c.js",
+      "_marked.esm-8ca47526.js",
+      "_preload-helper-863641ac.js"
     ]
   },
-  "src/routes/ru/about/__layout.svelte": {
-    "file": "pages/ru/about/__layout.svelte-800671cf.js",
-    "src": "src/routes/ru/about/__layout.svelte",
+  "src/routes/ru/about.md": {
+    "file": "pages/ru/about.md-d62050dd.js",
+    "src": "src/routes/ru/about.md",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-a55eeace.js",
-      "_index-4c361598.js",
-      "_preload-helper-e4860ae8.js"
-    ],
-    "css": [
-      "assets/pages/ru/about/__layout.svelte-a04d67f6.css"
-    ]
-  },
-  "src/routes/ru/about/index.svelte": {
-    "file": "pages/ru/about/index.svelte-5b1c86cf.js",
-    "src": "src/routes/ru/about/index.svelte",
-    "isEntry": true,
-    "isDynamicEntry": true,
-    "imports": [
-      "_vendor-a55eeace.js",
-      "_index-4c361598.js",
-      "_preload-helper-e4860ae8.js"
+      "_index-26d1c126.js"
     ]
   },
   "src/routes/[lang]/[...error]/__layout.reset.svelte": {
-    "file": "pages/_lang_/_...error_/__layout.reset.svelte-84c7e86a.js",
+    "file": "pages/_lang_/_...error_/__layout.reset.svelte-92d78eff.js",
     "src": "src/routes/[lang]/[...error]/__layout.reset.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-a55eeace.js"
+      "_index-26d1c126.js"
     ]
   },
   "src/routes/[lang]/[...error]/index.svelte": {
-    "file": "pages/_lang_/_...error_/index.svelte-de8f8085.js",
+    "file": "pages/_lang_/_...error_/index.svelte-ca6ff11e.js",
     "src": "src/routes/[lang]/[...error]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-a55eeace.js",
+      "_index-26d1c126.js",
       "src/routes/__error.svelte",
-      "_index-4c361598.js",
-      "_preload-helper-e4860ae8.js"
+      "_index-8fcc8c3c.js",
+      "_stores-21e48d12.js",
+      "_preload-helper-863641ac.js"
     ]
   },
-  "_vendor-a55eeace.js": {
-    "file": "chunks/vendor-a55eeace.js"
+  "_index-26d1c126.js": {
+    "file": "chunks/index-26d1c126.js"
   },
-  "_preload-helper-e4860ae8.js": {
-    "file": "chunks/preload-helper-e4860ae8.js"
-  },
-  "_index-4c361598.js": {
-    "file": "chunks/index-4c361598.js",
+  "_preload-helper-863641ac.js": {
+    "file": "chunks/preload-helper-863641ac.js",
     "imports": [
-      "_preload-helper-e4860ae8.js",
-      "_vendor-a55eeace.js"
+      "_index-26d1c126.js"
+    ]
+  },
+  "_index-8fcc8c3c.js": {
+    "file": "chunks/index-8fcc8c3c.js",
+    "imports": [
+      "_preload-helper-863641ac.js",
+      "_index-26d1c126.js"
     ],
     "dynamicImports": [
       "src/lib/translations/en/common.json",
@@ -160,8 +152,26 @@
       "src/lib/translations/ru/error.json"
     ]
   },
+  "_stores-21e48d12.js": {
+    "file": "chunks/stores-21e48d12.js",
+    "imports": [
+      "_index-26d1c126.js"
+    ]
+  },
+  "_marked.esm-8ca47526.js": {
+    "file": "chunks/marked.esm-8ca47526.js"
+  },
+  "_bootstrap.bundle.min-3e95f5b0.js": {
+    "file": "chunks/bootstrap.bundle.min-3e95f5b0.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@fortawesome/fontawesome-free/js/all.min.js": {
+    "file": "chunks/all.min-c9a74dcf.js",
+    "src": "node_modules/@fortawesome/fontawesome-free/js/all.min.js",
+    "isDynamicEntry": true
+  },
   "src/lib/translations/en/common.json": {
-    "file": "chunks/common-cacbe468.js",
+    "file": "chunks/common-429e9f5b.js",
     "src": "src/lib/translations/en/common.json",
     "isDynamicEntry": true
   },
@@ -181,22 +191,22 @@
     "isDynamicEntry": true
   },
   "src/lib/translations/ru/common.json": {
-    "file": "chunks/common-f2b64dd2.js",
+    "file": "chunks/common-16d97939.js",
     "src": "src/lib/translations/ru/common.json",
     "isDynamicEntry": true
   },
   "src/lib/translations/ru/menu.json": {
-    "file": "chunks/menu-6fe15eff.js",
+    "file": "chunks/menu-3a467a3d.js",
     "src": "src/lib/translations/ru/menu.json",
     "isDynamicEntry": true
   },
   "src/lib/translations/ru/home.json": {
-    "file": "chunks/home-f572c109.js",
+    "file": "chunks/home-3dbd43c8.js",
     "src": "src/lib/translations/ru/home.json",
     "isDynamicEntry": true
   },
   "src/lib/translations/ru/error.json": {
-    "file": "chunks/error-f971cdc9.js",
+    "file": "chunks/error-b172b9a7.js",
     "src": "src/lib/translations/ru/error.json",
     "isDynamicEntry": true
   }

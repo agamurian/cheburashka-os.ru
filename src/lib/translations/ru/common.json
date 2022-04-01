@@ -1,10 +1,10 @@
 {
-  "menu": "選單",
+  "menu": "меню",
   "colorScheme": {
-    "dark": "深沉",
-    "light": "光明",
-    "darkTo": "停用深沉模式",
-    "lightTo": "啟用深沉模式"
+    "dark": "темный",
+    "light": "светлая",
+    "darkTo": "на темную",
+    "lightTo": "на светлую"
   },
-  "copyright": "Copyright © {{crYear}} ChunKit.hk"
+  "copyright": "Copyright © 2022 - {{crYear}} cheburashka-os.ru"
 }
