@@ -93,12 +93,12 @@
     <hr class="featurette-divider">
 
     <div class="row featurette">
-      <div class="col-md-7">
+      <div class="col-md-6">
         <h2 class="featurette-heading">First featurette heading. <span class="text-muted">It’ll blow your mind.</span></h2>
         <p class="lead">Some great placeholder content for the first featurette here. Imagine some exciting prose here.</p>
       </div>
-      <div class="col-md-5">
-        <img src="/q1.webp" class="rounded bd-placeholder-img" width="500" height="500" alt="...">
+      <div class="col-md-6">
+        <img src="/q1.webp" class="rounded bd-placeholder-img img-fluid" max-width="500" max-height="500" alt="...">
 
       </div>
     </div>
@@ -106,12 +106,12 @@
     <hr class="featurette-divider">
 
     <div class="row featurette">
-      <div class="col-md-7 order-md-2">
+      <div class="col-md-6 order-md-2">
         <h2 class="featurette-heading">Ах да, кто такой этот..<span class="text-muted">"Чебурашка"</span></h2>
         <p class="lead">Чебура́шка — персонаж, придуманный писателем Эдуардом Успенским в 1966 году как один из главных героев книги «Крокодил Гена и его друзья» и её продолжений. После выхода мультфильма Романа Качанова «Крокодил Гена», снятого по этой книге в 1969 году, персонаж стал широко известен.</p>
       </div>
-      <div class="col-md-5 order-md-1">
-        <img src="/q2.webp" class="rounded bd-placeholder-img" width="500" height="500" alt="...">
+      <div class="col-md-6 order-md-1">
+        <img src="/q2.webp" class="rounded bd-placeholder-img img-fluid" max-width="500" max-height="500" alt="...">
 
       </div>
     </div>
@@ -119,12 +119,12 @@
     <hr class="featurette-divider">
 
     <div class="row featurette">
-      <div class="col-md-7">
+      <div class="col-md-6">
         <h2 class="featurette-heading">And lastly, this one. <span class="text-muted">Checkmate.</span></h2>
         <p class="lead">And yes, this is the last block of representative placeholder content. Again, not really intended to be actually read, simply here to give you a better view of what this would look like with some actual content. Your content.</p>
       </div>
-      <div class="col-md-5">
-        <img src="/q3.webp" class="rounded bd-placeholder-img" width="500" height="500" alt="...">
+      <div class="col-md-6">
+        <img src="/q3.webp" class="rounded bd-placeholder-img img-fluid" max-width="500" max-height="500" alt="...">
 
       </div>
     </div>

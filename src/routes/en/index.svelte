@@ -93,12 +93,12 @@
     <hr class="featurette-divider">
 
     <div class="row featurette">
-      <div class="col-md-7">
+      <div class="col-md-6">
         <h2 class="featurette-heading">First featurette heading. <span class="text-muted">It’ll blow your mind.</span></h2>
         <p class="lead">Some great placeholder content for the first featurette here. Imagine some exciting prose here.</p>
       </div>
-      <div class="col-md-5">
-        <img src="/q1.webp" class="rounded bd-placeholder-img" width="500" height="500" alt="...">
+      <div class="col-md-6">
+        <img src="/q1.webp" class="rounded bd-placeholder-img img-fluid" max-width="500" max-height="500" alt="...">
 
       </div>
     </div>
@@ -106,12 +106,12 @@
     <hr class="featurette-divider">
 
     <div class="row featurette">
-      <div class="col-md-7 order-md-2">
+      <div class="col-md-76order-md-2">
         <h2 class="featurette-heading">OOh yeah, who is the.. <span class="text-muted">"Cheburashka"?</span></h2>
         <p class="lead">Cheburashka is famos russian character. also known as Topple in earlier English translations, is a fictional character created by Soviet writer Eduard Uspensky in his 1965 children's book Krokodil Gena i yevo druzia. The character subsequently appeared as the protagonist in a series of stop-motion animated films by Roman Kachanov (Soyuzmultfilm studio), the first of which was made in 1969</p>
       </div>
-      <div class="col-md-5 order-md-1">
-        <img src="/q2.webp" class="rounded bd-placeholder-img" width="500" height="500" alt="...">
+      <div class="col-md-6 order-md-1">
+        <img src="/q2.webp" class="rounded bd-placeholder-img img-fluid" max-width="500" max-height="500" alt="...">
 
       </div>
     </div>
@@ -119,12 +119,12 @@
     <hr class="featurette-divider">
 
     <div class="row featurette">
-      <div class="col-md-7">
+      <div class="col-md-6">
         <h2 class="featurette-heading">And lastly, this one. <span class="text-muted">Checkmate.</span></h2>
         <p class="lead">And yes, this is the last block of representative placeholder content. Again, not really intended to be actually read, simply here to give you a better view of what this would look like with some actual content. Your content.</p>
       </div>
-      <div class="col-md-5">
-        <img src="/q3.webp" class="rounded bd-placeholder-img" width="500" height="500" alt="...">
+      <div class="col-md-6">
+        <img src="/q3.webp" class="rounded bd-placeholder-img img-fluid" max-width="500" max-height="500" alt="...">
 
       </div>
     </div>
