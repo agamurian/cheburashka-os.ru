@@ -13,10 +13,10 @@
         <h2>Cinnammon Live ISO</h2>
         <hr>
         <p>installable live image with Cinnammon</p>
-        <small>Traditional default Cinnamon desktop along with most needed applications. The LibreOffice suite also comes pre-installed.</small>
+        <small>Traditional default mate desktop along with most needed applications. The LibreOffice suite also comes pre-installed.</small>
         <br>
         <br>
-        <p><a class="btn btn-secondary" href="./cinnamon">Download</a></p>
+        <p><a class="btn btn-secondary" href="./mate">Download</a></p>
       </div><!-- /.col-lg-4 -->
 
       <div class="col-lg-4">

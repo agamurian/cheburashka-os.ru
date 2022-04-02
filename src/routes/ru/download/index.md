@@ -11,10 +11,10 @@
 
         <br>
         <br>
-        <h2>Cinnammon Live ISO</h2>
+        <h2>MATE Live ISO</h2>
         <hr>
-        <p>уcтановочный диск с Cinnammon</p>
-        <small>Традиционный рабочий стол Cinnamon по умолчанию вместе с наиболее необходимыми приложениями. Пакет LibreOffice также предустановлен.</small>
+        <p>уcтановочный диск с MATE</p>
+    <small>Традиционный рабочий стол MATE по умолчанию вместе с наиболее необходимыми приложениями. Пакет LibreOffice также предустановлен.</small>
         <br>
         <br>
         <p><a class="btn btn-secondary" href="./cinnamon">Скачать</a></p>

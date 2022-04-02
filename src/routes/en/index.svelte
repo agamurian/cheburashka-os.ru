@@ -94,8 +94,8 @@
 
     <div class="row featurette">
       <div class="col-md-6">
-        <h2 class="featurette-heading">First featurette heading. <span class="text-muted">It’ll blow your mind.</span></h2>
-        <p class="lead">Some great placeholder content for the first featurette here. Imagine some exciting prose here.</p>
+        <h2 class="featurette-heading">Cheburashka OS is Stable<span class="text-muted">It’ll blow your mind.</span></h2>
+        <p class="lead">LTS support until 2027 and up until 2032</p>
       </div>
       <div class="col-md-6">
         <img src="/q1.webp" class="rounded bd-placeholder-img img-fluid" max-width="500" max-height="500" alt="...">
