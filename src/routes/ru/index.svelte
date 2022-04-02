@@ -94,11 +94,12 @@
 
     <div class="row featurette">
       <div class="col-md-6">
-        <h2 class="featurette-heading">Cheburashka Os is Stable<span class="text-muted">It’ll blow your mind.</span></h2>
+        <h2 class="featurette-heading">Cheburashka Os is Stable<br>
+          <span class="text-muted">It’ll blow your mind.</span></h2>
         <p class="lead">Version 2022 supports until 2027 and security-updates untill 2032! which is longesr support LTS system evalible now besides EPEL</p>
       </div>
       <div class="col-md-6">
-        <img src="/q1.webp" class="rounded bd-placeholder-img img-fluid" max-width="500" max-height="500" alt="...">
+        <img src="/stable.webp" class="rounded bd-placeholder-img img-fluid" max-width="500" max-height="500" alt="...">
 
       </div>
     </div>

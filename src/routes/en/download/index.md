@@ -10,9 +10,9 @@
         <img src="/cd.png" class="rounded-circle bd-placeholder-img" width="140" height="140" alt="...">
         <br>
         <br>
-        <h2>Cinnammon Live ISO</h2>
+        <h2>mate Live ISO</h2>
         <hr>
-        <p>installable live image with Cinnammon</p>
+        <p>installable live image with mate</p>
         <small>Traditional default mate desktop along with most needed applications. The LibreOffice suite also comes pre-installed.</small>
         <br>
         <br>
