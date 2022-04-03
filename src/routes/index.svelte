@@ -6,7 +6,7 @@
         const redirect = {
             'ru': ['ru', 'ru-RU']
         };
-        let redirectTo = 'en';
+        let redirectTo = 'ru';
         Object.entries(redirect).forEach(([langKey, langList]) => {
             if (langList.includes(language)) {
                 redirectTo = langKey
