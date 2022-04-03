@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-94bba1aa.js",
+    "file": "start-27fac67c.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -14,7 +14,7 @@
       "src/routes/en/index.svelte",
       "src/routes/en/installed.md",
       "src/routes/en/download/index.md",
-      "src/routes/en/download/cinnamon.md",
+      "src/routes/en/download/mate.md",
       "src/routes/en/download/i3.md",
       "src/routes/en/viruses.md",
       "src/routes/en/about.md",
@@ -64,7 +64,7 @@
     ]
   },
   "src/routes/index.svelte": {
-    "file": "pages/index.svelte-9c820462.js",
+    "file": "pages/index.svelte-474dc74a.js",
     "src": "src/routes/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -73,7 +73,7 @@
     ]
   },
   "src/routes/en/index.svelte": {
-    "file": "pages/en/index.svelte-a3dd036d.js",
+    "file": "pages/en/index.svelte-69fd5ce9.js",
     "src": "src/routes/en/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -102,9 +102,9 @@
       "_index-f32d6e1d.js"
     ]
   },
-  "src/routes/en/download/cinnamon.md": {
-    "file": "pages/en/download/cinnamon.md-b499808b.js",
-    "src": "src/routes/en/download/cinnamon.md",
+  "src/routes/en/download/mate.md": {
+    "file": "pages/en/download/mate.md-c0736d03.js",
+    "src": "src/routes/en/download/mate.md",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
@@ -139,7 +139,7 @@
     ]
   },
   "src/routes/ru/index.svelte": {
-    "file": "pages/ru/index.svelte-ec805e13.js",
+    "file": "pages/ru/index.svelte-df8b233e.js",
     "src": "src/routes/ru/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -169,7 +169,7 @@
     ]
   },
   "src/routes/ru/download/mate.md": {
-    "file": "pages/ru/download/mate.md-d62d7fe5.js",
+    "file": "pages/ru/download/mate.md-bb90058d.js",
     "src": "src/routes/ru/download/mate.md",
     "isEntry": true,
     "isDynamicEntry": true,

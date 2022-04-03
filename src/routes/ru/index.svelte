@@ -96,10 +96,11 @@
       <div class="col-md-6">
         <h2 class="featurette-heading">Cheburashka Os is Stable<br>
           <span class="text-muted">It’ll blow your mind.</span></h2>
-        <p class="lead">Version 2022 supports until 2027 and security-updates untill 2032! which is longesr support LTS system evalible now besides EPEL</p>
+          <br>
+        <p class="lead">Версия 2020 поддерживается до 2025 года, версия 2022 до 2027 года, это самая долгая поддержка дистрибутива на десктопе в линуксе.</p>
       </div>
       <div class="col-md-6">
-        <img src="/stable.webp" class="rounded bd-placeholder-img img-fluid" max-width="500" max-height="500" alt="...">
+        <img src="/stable.png" class="rounded bd-placeholder-img img-fluid" max-width="500" max-height="500" alt="...">
 
       </div>
     </div>
